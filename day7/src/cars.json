@@ -1,0 +1,9 @@
+[
+ {"id": 1, "name": "maruthi", "rate": 100},
+
+{"id": 2, "name": "bmw", "rate": 200}, 
+
+{"id":3, "name":"nano", "rate": 300},
+
+{"id":4, "name": "audi", "rate": 400}
+]
